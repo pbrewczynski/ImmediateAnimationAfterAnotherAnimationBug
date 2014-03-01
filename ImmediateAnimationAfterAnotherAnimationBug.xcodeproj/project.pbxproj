@@ -461,6 +461,7 @@
 				E5EAE1FC18C1D9920027B3B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E5EAE1FD18C1D9920027B3B6 /* Build configuration list for PBXNativeTarget "ImmediateAnimationAfterAnotherAnimationBugTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +470,7 @@
 				E5EAE1FF18C1D9920027B3B6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
